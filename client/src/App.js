@@ -1,5 +1,4 @@
 // component imports
-
 import Landing from "./components/Landing"
 
 function App() {
